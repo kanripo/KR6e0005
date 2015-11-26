@@ -1,12 +1,13 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:53:29.279949
-#+TITLE: 花嚴經文義綱目
-#+PROPERTY: CBETA_ID T35n1734
-#+PROPERTY: ID KR6e0005
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1734
-#+PROPERTY: VOL 35
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T@JIA
-#+PROPERTY: LASTPB <pb:KR6e0005_T_000-0492b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+TITLE: 花嚴經文義綱目 / T@JIA
+#+DATE: 2015-11-26 14:08:57.251553
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@HARA|【大→原】   |
+ |     T@JIA|【大→甲】   |
+ |     T@ZHI|【大→知】   |
 
-[[file:KR6e0005_001.txt::001-0492b21][華嚴經文義綱目刊行序¶]]
+* 目次
+* [[file:KR6e0005_001.txt::001-0492b20][華嚴經文義綱目刊行序]]
+* 卷
+** [[file:KR6e0005_001.txt][花嚴經文義綱目 1]]
